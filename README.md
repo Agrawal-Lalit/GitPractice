@@ -1,4 +1,1 @@
-#This is a readme file in development branch
-``development branch is created to understanding push,pull and merge from terminal after tracking locally``
-
-#Adding this line from local terminal 
+#This is a readme file in master branch and upto here master branch should be 1 commit ahead of development branch
