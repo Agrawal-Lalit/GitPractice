@@ -1,1 +1,4 @@
-Creating a raw file for the purpose of pulling in local repo form remote 
+//Creating a raw file for the purpose of pulling in local repo form remote 
+//Also now pulling has been done successfully and new branch created locally :develop
+//above statement added to add changes in develop branch and later to merge with local master branch
+
